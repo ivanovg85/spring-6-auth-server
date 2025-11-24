@@ -1,0 +1,19 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# IDE
+.idea
+*.iml
+
+# Build outputs
+target/
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Documentation
+*.md
+LICENSE
